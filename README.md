@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suhakesikbas/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="suhakesikbas" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/suhakesikbas/" target="blank" rel=”noopener”><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="suhakesikbas" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12587470/suha-kesikbas" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
 <a href="https://www.instagram.com/suhakesikbas" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="suhakesikbas" height="30" width="30" /></a>
 <a href="https://suha-kesikbas.medium.com/" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@suha-kesikbas" height="30" width="40" /></a>
