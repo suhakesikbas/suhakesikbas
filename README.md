@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhakesikbas
-- 👀 I’m ***Software Engineer***
+- 👀 I’m ***Software Engineer*** @DeFactoTechnology
 - 🌱 I’m currently learning ***React*** and ***Node.Js***
 - 💞️ I’m looking to collaborate on ***.Net Full Stack Developer***
 - 📫 How to reach me [suha.kesikbas@gmail.com](mailto:suha.kesikbas@gmail.com) or [LinkedIn](https://tr.linkedin.com/in/suhakesikbas)
@@ -39,7 +39,8 @@
 <p style="vertical-align:top;">
    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhakesikbas&layout=compact&theme=dark">
   </p>
-  <p style="vertical-align:top;">
+  <p style="vertical-align:top
+;">
   <img alt="" src="https://github-readme-stats.vercel.app/api?username=suhakesikbas&show_icons=true&theme=dark">
   </p>
 
